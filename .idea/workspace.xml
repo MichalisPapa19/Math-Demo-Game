@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54dd90e4-25b4-406f-b5ae-a0023ea9df75" name="Changes" comment="MathDemoGame_V1.0">
+    <list default="true" id="cb0bb1a1-13c4-4b64-b19e-5b12e837e70a" name="Changes" comment="MathDemoGame_V1.0">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +36,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
@@ -45,7 +47,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="54dd90e4-25b4-406f-b5ae-a0023ea9df75" name="Changes" comment="" />
+      <changelist id="cb0bb1a1-13c4-4b64-b19e-5b12e837e70a" name="Changes" comment="MathDemoGame_V1.0" />
       <created>1674250700119</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -54,6 +56,7 @@
       <workItem from="1674286608890" duration="5726000" />
       <workItem from="1674297190201" duration="1136000" />
       <workItem from="1674312444441" duration="1171000" />
+      <workItem from="1674396735796" duration="6158000" />
     </task>
     <task id="LOCAL-00001" summary="MathDemoGame_V1.0">
       <created>1674312719918</created>
