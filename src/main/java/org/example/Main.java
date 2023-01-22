@@ -14,7 +14,7 @@ public class Main {
         while(Userinput!=0) {
 
             //Sum Game Start !
-            while (score <= 4 && Userinput!=0 ) {
+            while (score <= 10 && Userinput!=0 ) {
                 System.out.println("Score:" + score);
                int sum = SumRanNam.randomNum(20, 70);
                 System.out.println("Give the number:");
@@ -27,12 +27,12 @@ public class Main {
                 }
             }
 
-            if(score==5){
+            if(score==10){
                 System.out.println("-----------Good job the next Game is Subtract-----------");
             }
 
             //Sub Game Start!
-            while(score <=10 && score>=5 && Userinput!=0){
+            while(score <=20 && score>=10 && Userinput!=0){
                 System.out.println("Score:" + score);
                 int sub= SubRanNam.randomNum(20,70);
                 Userinput = myObj.nextInt();
@@ -44,10 +44,21 @@ public class Main {
                     System.out.println("Try again!");
                 }
             }
-            if(score==10){
-                System.out.println(" Good job the next Game is Subtract !");
+            if(score==20){
+                System.out.println("-----------Good job the next Game is multiplication-----------");
             }
-
+            while(score <=30 && score>=20 && Userinput!=0){
+                System.out.println("Score:" + score);
+                int mult = ProlRanNam.randomNum(2,40);
+                Userinput = myObj.nextInt();
+                if (mult == Userinput) {
+                    System.out.println("Υou gave a correct result !");
+                    score++;
+                }
+                else if(mult != Userinput && Userinput!=0){
+                    System.out.println("Try again!");
+                }
+            }
         }
         if(Userinput==0) {
             System.out.println("The Game Stopped !");
