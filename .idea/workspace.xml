@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb0bb1a1-13c4-4b64-b19e-5b12e837e70a" name="Changes" comment="MathDemoGame_V1.0">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="cb0bb1a1-13c4-4b64-b19e-5b12e837e70a" name="Changes" comment="MathDemoGame_ui">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,18 +31,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,7 +55,8 @@
       <workItem from="1674286608890" duration="5726000" />
       <workItem from="1674297190201" duration="1136000" />
       <workItem from="1674312444441" duration="1171000" />
-      <workItem from="1674396735796" duration="6158000" />
+      <workItem from="1674396735796" duration="6400000" />
+      <workItem from="1674417627705" duration="310000" />
     </task>
     <task id="LOCAL-00001" summary="MathDemoGame_V1.0">
       <created>1674312719918</created>
@@ -65,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674312719918</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="MathDemoGame_ui">
+      <created>1674407056160</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674407056160</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +91,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="MathDemoGame_V1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="MathDemoGame_V1.0" />
+    <MESSAGE value="MathDemoGame_ui" />
+    <option name="LAST_COMMIT_MESSAGE" value="MathDemoGame_ui" />
   </component>
 </project>

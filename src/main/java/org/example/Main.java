@@ -48,9 +48,6 @@ public class Main {
                 System.out.println(" Good job the next Game is Subtract !");
             }
 
-
-
-
         }
         if(Userinput==0) {
             System.out.println("The Game Stopped !");
